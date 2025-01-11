@@ -9,6 +9,11 @@ This is the repository for the LinkedIn Learning course `Hands-On Analytics Engi
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+<p>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the “How to use Codespaces” video to learn how to get started.</p>
+
+_See the readme file in the main branch for updated instructions and information._
+## Instructions
+This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
 ## Branches
 The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
@@ -17,11 +22,6 @@ Some branches will have a beginning and an end state. These are marked with the 
 When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
 
     error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
@@ -32,6 +32,15 @@ Connor Dickson
 Analytics Engineer                
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/connor-dickson?u=104).
+
+
+[0]: # (Replace these placeholder URLs with actual course URLs)
+
+[lil-course-url]: https://www.linkedin.com/learning/hands-on-analytics-engineering-project
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEeQu7tFcF64A/learning-public-crop_675_1200/0/1718381158863?e=2147483647&v=beta&t=SEoWsTpoE6WUzPCO9EcVW6mEOa0_N2cTEOw-jLCFK7c
+
+
+
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
